@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @CaioCBMC
 - 👀 I’m interested in Front-End and Machine Learning
 - 🌱 I’m currently learning Javascript and Python
 - 📫 How to reach me: bcmcaio@gmail.com
